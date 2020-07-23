@@ -1,3 +1,5 @@
+### THIS FILE IS NOT BEEN USED AGAIN. I HAVE RESORTED TO ALLAUTH ###
+
 from django.urls import reverse_lazy
 from django.views import generic
 
